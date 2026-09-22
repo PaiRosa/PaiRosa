@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=f97316&center=true&vCenter=true&width=640&lines=%E2%80%9CAcima%20de%20tudo%2C%20mostre%20os%20dados.%E2%80%9D%20%E2%80%94%20Edward%20R.%20Tufte)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rosa-ribeiro-ab6306172) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:victor.rosa.ribeiroo@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=PaiRosa&color=f97316&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rosa-ribeiro-ab6306172) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:victor.rosa.ribeiroo@gmail.com)
 
 ![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-f97316?style=flat-square)
 
@@ -55,18 +55,6 @@ Principais Competências & Ferramentas:
 
 ### Languages
 - 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PaiRosa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" alt="Victor Rosa Ribeiro stats"/>
-
-</div>
-
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PaiRosa&theme=github&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=PaiRosa&theme=github&hide_border=true&area=true)
 
 ---
 
