@@ -22,7 +22,7 @@ Principais Competências & Ferramentas:
 
 🔹 Soft Skills: Comunicação Assertiva, Resolução de Problemas, Visão de Negócio, Resiliência e Trabalho em Equipe.
 
-Principais Competências & Ferramentas:
+Formação Acadêmica:
 
 🎓 Graduado em Engenharia Mecânica pelo IFSP (Campus Sertãozinho/SP).
 
